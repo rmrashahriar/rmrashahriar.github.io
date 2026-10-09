@@ -1,0 +1,9 @@
+/* TEAM */
+Operator: RAFI
+Handle: @rmrashahriar
+GitHub: https://github.com/rmrashahriar
+Role: Cybersecurity Researcher & Penetration Tester
+
+/* SITE */
+Last update: 2026-10-09
+Standards: HTML5, CSS3, schema.org
